@@ -1,0 +1,15 @@
+{
+  "name": "AriaryCoin",
+  "symbol": "ARC",
+  "description": "AriaryCoin (ARC) est un token sur Solana utilisant Token-2022. Commission de transfert initiale : 0,01 %. Les commissions sont percues en ARC.",
+  "image": "https://raw.githubusercontent.com/iamarketings/arc-coin/main/ariary_coin_logo_512.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/iamarketings/arc-coin/main/ariary_coin_logo_512.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
